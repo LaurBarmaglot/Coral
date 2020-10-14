@@ -1,1 +1,1 @@
-https://raw.githack.com/DeathBarmaglot/Coral.io/master/index.html
+https://raw.githack.com/DeathBarmaglot/Coral/master/index.html
